@@ -6,11 +6,11 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/saravanan86820/) | [GitHub](https://github.com/Saravanan86820)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Saravanan+R;Software+Developer;MERN+Stack+Developer;Java+%26+Spring+Boot+Developer;React.js+Specialist" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saravanan%20R&fontSize=50&fontAlignY=40&desc=Building%20Innovative%20Web%20Solutions&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saravanan%20R&fontSize=50&fontAlignY=40&desc=Building%20Innovative%20Web%20Solutions&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Software+Developer;MERN+Stack+Developer;Java+%26+Spring+Boot+Developer;React.js+Specialist" alt="Typing SVG" />
 </div>
 
 
